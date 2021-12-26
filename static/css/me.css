@@ -1,0 +1,24 @@
+.m-padded-tb-mini {
+    padding-top: 0.2em !important;
+    padding-bottom: 0.2em !important;
+}
+
+.m-padded-tb-massive {
+    padding-top: 5em !important;
+    padding-bottom: 5em !important;
+}
+
+
+/*-----text----*/
+
+.m-text-thin {
+    font-weight: 100;
+}
+
+.m-text-spaced {
+    letter-spacing: 2px;
+}
+
+.m-text-lined {
+    line-height: 1.8;
+}
